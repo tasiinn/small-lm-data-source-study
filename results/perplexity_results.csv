@@ -1,0 +1,5 @@
+training_data,eval_loss,perplexity
+Human (Wikipedia),4.1014,60.42
+Synthetic (Flan-T5),4.2705,71.56
+Synthetic (Gemma-2B),4.4061,81.95
+20% Human / 80% Gemma,4.2351,69.60

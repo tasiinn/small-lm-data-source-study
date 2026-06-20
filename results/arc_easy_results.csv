@@ -1,0 +1,5 @@
+training_data,accuracy
+Human (Wikipedia),0.04
+Synthetic (Flan-T5),0.08
+Synthetic (Gemma-2B),0.26
+20% Human / 80% Gemma,0.26
