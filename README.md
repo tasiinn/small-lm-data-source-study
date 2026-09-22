@@ -171,7 +171,7 @@ If you reference this work, please cite:
 @misc{khan2025humansynthetic,
   author = {Khan, Tasin Tayeba},
   title  = {Human, Synthetic, or Both? Evaluating Training Data Choices for Small Language Models},
-  year   = {2025}, % update if this was written/submitted in a different year
+  year   = {2025}, 
   note   = {University of Rochester}
 }
 ```
